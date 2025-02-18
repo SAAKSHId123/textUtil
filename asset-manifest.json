@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/SAAKSHId123/textUtil/static/css/main.f855e6bc.css",
-    "main.js": "/SAAKSHId123/textUtil/static/js/main.c0124bad.js",
-    "static/js/488.9c92ff38.chunk.js": "/SAAKSHId123/textUtil/static/js/488.9c92ff38.chunk.js",
-    "index.html": "/SAAKSHId123/textUtil/index.html",
-    "main.f855e6bc.css.map": "/SAAKSHId123/textUtil/static/css/main.f855e6bc.css.map",
-    "main.c0124bad.js.map": "/SAAKSHId123/textUtil/static/js/main.c0124bad.js.map",
-    "488.9c92ff38.chunk.js.map": "/SAAKSHId123/textUtil/static/js/488.9c92ff38.chunk.js.map"
+    "main.css": "/SAAKSHId123/textUtil.git/static/css/main.f855e6bc.css",
+    "main.js": "/SAAKSHId123/textUtil.git/static/js/main.16809667.js",
+    "static/js/488.9c92ff38.chunk.js": "/SAAKSHId123/textUtil.git/static/js/488.9c92ff38.chunk.js",
+    "index.html": "/SAAKSHId123/textUtil.git/index.html",
+    "main.f855e6bc.css.map": "/SAAKSHId123/textUtil.git/static/css/main.f855e6bc.css.map",
+    "main.16809667.js.map": "/SAAKSHId123/textUtil.git/static/js/main.16809667.js.map",
+    "488.9c92ff38.chunk.js.map": "/SAAKSHId123/textUtil.git/static/js/488.9c92ff38.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.c0124bad.js"
+    "static/js/main.16809667.js"
   ]
 }
